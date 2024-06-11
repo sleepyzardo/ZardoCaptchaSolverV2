@@ -25,6 +25,8 @@ Free trial for the service is possible, A bot will be added to the server which 
 
 > *Due to misuse, Maximum of 2 solves will be provided as a proof of legitimacy.*
 
+## Showcase
+![image.jpg](https://cdn.discordapp.com/attachments/1248881445217239122/1250052229071634574/Screenshot_2024-06-11-17-10-09-47_5a415ff834f6bc153619606941c55eb5.jpg?ex=6669895c&is=666837dc&hm=51f0c3683ef5c30c5ca130b11a30be5ce51d11e072c73aa35c668e8b27ad9bde&)
 
 # Note
 This is not a free api due to the cost of managing it and hence there is a very affordable price to it. If you wish to know more contact me at discord on `@sleepyzardo`.
