@@ -16,7 +16,7 @@ This is an Improved version of my previous recaptcha/cloudfare solver. The techn
 ## Pricing
 Zardo and the associates do not provide any subscription based service for this program. If you wish to buy it, it has to be the source code. This however is subjected to change.
 
-- $5 for the source code along with the practices involved to carry out safe execution.
+- $7 for the source code along with the practices involved to carry out safe execution.
 
 > Prices are subjected to change.
 
