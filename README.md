@@ -27,6 +27,7 @@ Free trial for the service is possible, A bot will be added to the server which 
 
 ## Showcase
 ![image.jpg](https://cdn.discordapp.com/attachments/1248881445217239122/1250052229071634574/Screenshot_2024-06-11-17-10-09-47_5a415ff834f6bc153619606941c55eb5.jpg?ex=6669895c&is=666837dc&hm=51f0c3683ef5c30c5ca130b11a30be5ce51d11e072c73aa35c668e8b27ad9bde&)
+![image](https://github.com/sleepyzardo/ZardoCaptchaSolverV2/assets/88527682/a9b2c161-2c81-4e80-a0ab-8fdfe8f7f775)
 
 # Note
 This is not a free api due to the cost of managing it and hence there is a very affordable price to it. If you wish to know more contact me at discord on `@sleepyzardo`.
