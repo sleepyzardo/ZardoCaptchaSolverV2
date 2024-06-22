@@ -22,7 +22,7 @@ Zardo and the associates do not provide any subscription based service for this 
 
 > Prices are subjected to change.
 
-## Free-Trial?
+## Free-Trial? [ON PAUSE]
 Free trial for the service is possible, A bot will be added to the server which will scan the captcha links sent. Please come prepared for account with captcha enabled incase you want to see the legitimacy.
 
 > *Due to misuse, Maximum of 2 solves will be provided as a proof of legitimacy.*
