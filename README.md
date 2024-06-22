@@ -46,7 +46,7 @@ v1.3 - 06-19-2024
 + Added /logs to check for responses
 + Improved batch file logic
 + Improved Discord Bot
-+ Fixed Parallel Solving
++ Fixed Parallel Solving for multi captchas
 
 v1.2.2 - 06-16-2024
 - Removed Junk Code
@@ -56,9 +56,12 @@ v1.2.2 - 06-16-2024
 
 v1.2.1 - 06-13-2024
 - Removed Old Parallel Solving Logic
+! Changed requirements for being in solved state
 + Added New Parallel Solving Logic
 
 v1.2 - 06-12-2024
+- Removed old Bypass
++ Added new hook
 + Added Parallel Solving
 + Added config.toml for configuration
 + Added Error Handling
