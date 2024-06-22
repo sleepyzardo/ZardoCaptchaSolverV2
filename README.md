@@ -36,6 +36,11 @@ If you wish to resell my program and future tools possibly. Feel free to contact
 
 ## ChangeLogs
 ```diff
+v1.4 - 06-22-2024
+- Removed HMAC encryption
++ Added Custom encryption
++ Added Support for other services
+
 v1.3 - 06-19-2024
 - Reduced Redundacy
 + Added /logs to check for responses
