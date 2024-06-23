@@ -75,9 +75,10 @@ v1.0 - 06-07-2024
 ## Real-Time Updates
 ```diff
 ! Facing some issues in cloudfare and logging. Checking bypass for leaks. 11:34 am
-- Still researching. Issue seems to be related to internet connectivity. 12:00 noon
+- Still researching. Issue seems to be related to internet connectivity during loading of cloudfare. 12:00 noon
 + Ran 100 test. None have failed. 12:30 pm
-+ Added better logs handler for file. 12:41 pm 
++ Added better logs handler for file. 12:41 pm
+! Clients are advised to implement a basic retry mechanism.
 ```
 # Note
 This is not a free api due to the cost of managing it and hence there is a very affordable price to it. If you wish to know more contact me at discord on `@sleepyzardo`.<br>
