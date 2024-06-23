@@ -72,7 +72,10 @@ v1.2 - 06-12-2024
 v1.0 - 06-07-2024
 ! Initial Release
 ```
-
+## Real-Time Updates
+```diff
+! Facing some issues in cloudfare and logging. Checking bypass for leaks.
+```
 # Note
 This is not a free api due to the cost of managing it and hence there is a very affordable price to it. If you wish to know more contact me at discord on `@sleepyzardo`.<br>
 Anyone claiming to sell it other than `@sleepyzardo` is a fraud and should be blocked ASAP. Only I preserve the rights to sell it.
