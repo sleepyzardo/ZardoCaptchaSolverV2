@@ -36,7 +36,7 @@ If you wish to resell my program and future tools possibly. Feel free to contact
 
 ## ChangeLogs
 ```diff
-v1.4 - 06-22-2024
+v1.4 - 06-22-2024 (NOT ROLLED OUT YET)
 - Removed HMAC encryption
 + Added Custom Caesar encryption
 + Added Support for other services
