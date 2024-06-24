@@ -18,8 +18,8 @@ This program is updated for new cloudfare as of 22nd June 2024.
 ## Pricing
 Zardo and the associates do not provide any subscription based service for this program. If you wish to buy it, it has to be the source code. This however is subjected to change.
 
-- $7 for the source code along with the practices involved to carry out safe execution.
-- $10 for the Captcha-Bypass implemented (applies to every site).
+- $4 for the source code along with the practices involved to carry out safe execution.
+- $6 for the Captcha-Bypass implemented (applies to every site).
 
 > Prices are subjected to change.
 
@@ -74,11 +74,14 @@ v1.0 - 06-07-2024
 ```
 ## Real-Time Updates
 ```diff
-! Facing some issues in cloudfare and logging. Checking bypass for leaks. 11:34 am
-- Still researching. Issue seems to be related to internet connectivity during loading of cloudfare. 12:00 noon
-+ Ran 100 test. None have failed. 12:30 pm
-+ Added better logs handler for file. 12:41 pm
+<Last 10 updates..>
+
++ Everything seems to be stable.
 ! Clients are advised to implement a basic retry mechanism.
++ Added better logs handler for file. 12:41 pm
++ Ran 100 test. None have failed. 12:30 pm
+- Still researching. Issue seems to be related to internet connectivity during loading of cloudfare. 12:00 noon
+! Facing some issues in cloudfare and logging. Checking bypass for leaks. 11:34 am
 ```
 # Note
 This is not a free api due to the cost of managing it and hence there is a very affordable price to it. If you wish to know more contact me at discord on `@sleepyzardo`.<br>
