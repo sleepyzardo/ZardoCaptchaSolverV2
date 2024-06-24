@@ -6,7 +6,7 @@ This program is updated for new cloudfare as of 22nd June 2024.
 ## Features
 - Fully Automated Captcha Solving.
 - Comes with a json-response system, meaning you can display it however you want.
-- Under 15s solving speed without proxies on a cold start.
+- Under 15s solving speed on a cold start.
 - Under 5s solving speed when solving continuosly.
 - Newbie friendly.
 - Requires very less coding knowledge.
