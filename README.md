@@ -75,7 +75,8 @@ v1.0 - 06-07-2024
 ## Real-Time Updates
 ```diff
 <Last 10 updates..>
-
++ Fix Discovered. Implemented in v1.4.1
+- Bypass has released a new update. Rendingering it Useless
 + Everything seems to be stable.
 ! Clients are advised to implement a basic retry mechanism.
 + Added better logs handler for file. 12:41 pm
