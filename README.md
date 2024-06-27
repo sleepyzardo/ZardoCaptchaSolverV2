@@ -36,10 +36,10 @@ If you wish to resell my program and future tools possibly. Feel free to contact
 
 ## ChangeLogs
 ```diff
-v1.4.1 - 06-27-202 (NOT ROLLED OUT YET
+v1.4.1 - 06-27-2024
 + Added a Fix for Bypass.
 
-v1.4 - 06-22-2024 (NOT ROLLED OUT YET)
+v1.4 - 06-22-2024 
 - Removed HMAC encryption
 + Added Custom Caesar encryption
 + Added Support for other services
